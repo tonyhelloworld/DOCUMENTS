@@ -11,3 +11,4 @@ function countBytesLength(str){
     }
     return length;
 }
+
